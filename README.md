@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at THY Technology<br>🌱 I’m currently learning Java and Vue JS<br>⚡ Fun fact I can bench 100kg
+🔭 I’m currently working at THY Technology<br>🌱 I’m currently learning ASP.NET Core
 
 
 ## 🌐 Socials:
