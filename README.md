@@ -1,6 +1,12 @@
-# 💫 About Me:
-🌱 I’m currently learning ASP.NET Core
+# 💫 About Me
 
+I'm a Software Engineer and M.S. Computer Science student at Texas State University, specializing in Software Engineering.
+
+- 🔭 Currently building **DeepMode**, a gamified productivity app, and **Proof & Poise**, an AI-powered career preparation platform.
+- ☁️ **AWS Student Builder Group Leader** (2026–2027).
+- 💻 Experienced with **C#, .NET, Angular, PostgreSQL, and AWS**.
+- 🚀 Interested in **Full-Stack Development, Cloud Computing, and AI**.
+- 🤝 Open to collaborating on meaningful software projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-furkan-karaman/) 
